@@ -28,14 +28,20 @@ Conexión con la BD para obtención de datos y escritura sobre la misma.
 
 # 📌 Funcionalidades implementadas
 ✔ Login con roles (Admin, Médico).
+
 ✔ CRUD de Pacientes: alta, baja, modificación y listado.
+
 ✔ Gestión de turnos.
+
 ✔ Generación de Reportes.
 
 # 📌 Tecnologías utilizadas
 ✅ C# (.NET Framework 4.x)
+
 ✅ Windows Forms
+
 ✅ SQL Server 2017/2019
+
 ✅ Entity Framework 6 (Code First / Migrations)
 
 Este proyecto demuestra mi capacidad para diseñar y desarrollar soluciones de escritorio robustas, aplicando principios de Clean Architecture, separación de capas y buenas prácticas de programación orientada a objetos.
