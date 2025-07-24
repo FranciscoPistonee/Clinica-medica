@@ -1,7 +1,7 @@
-Sistema de Gestión de Clínica Médica – Aplicación de Escritorio en C#
+# Sistema de Gestión de Clínica Médica – Aplicación de Escritorio en C#
 Desarrollé una aplicación de escritorio en C# (.NET Framework) con SQL Server para la gestión integral de pacientes, citas, profesionales y reportes. Siguiendo una arquitectura en 3 capas (Presentación, Lógica de Negocio y Acceso a Datos) para lograr un diseño modular y fácil de mantener. Este proyecto fue realizado como Trabajo Final de la materia Laboratorio de Computación III en la Universidad Tecnológica Nacional (UTN).
 
-📌 Características principales
+# 📌 Características principales
 🔹 Modelo y Base de Datos
 
 Base de datos en SQL Server con tablas para Pacientes, Citas, Profesionales, Usuarios, etc.
@@ -26,13 +26,13 @@ Implementación de patrones y Clean Architecture: casos de uso independientes de
 
 Conexión con la BD para obtención de datos y escritura sobre la misma.
 
-📌 Funcionalidades implementadas
+# 📌 Funcionalidades implementadas
 ✔ Login con roles (Admin, Médico).
 ✔ CRUD de Pacientes: alta, baja, modificación y listado.
 ✔ Gestión de turnos.
 ✔ Generación de Reportes.
 
-📌 Tecnologías utilizadas
+# 📌 Tecnologías utilizadas
 ✅ C# (.NET Framework 4.x)
 ✅ Windows Forms
 ✅ SQL Server 2017/2019
